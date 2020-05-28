@@ -14,9 +14,8 @@ Simple mod that lets you press T to teleport to wherever your crosshair is aimin
 * Profit!
 
 ## Requirements
-* MelonLoader: v0.1.0
+* MelonLoader: v0.1.0 *(I will update this mod for MelonLoader v0.1.1 when it releases)*
 * Unhollower: v0.3.1.0
-*(I will update this mod for MelonLoader v0.1.1 when it releases)*
 
 ## Contact
 - Need help with anything or have questions? Feel free to contact me on discord @ BadWolf#1234 (Add or DM works)
