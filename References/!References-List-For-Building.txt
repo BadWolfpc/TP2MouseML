@@ -1,0 +1,21 @@
+(Assuming you've properly installed VRChat & MelonLoader)
+You can find these references in;
+	VRChat\MelonLoader
+	and
+	VRChat\MelonLoader\Managed
+Copy & Paste them into this references folder.
+
+References List
+	VRChat\MelonLoader
+		MelonLoader.ModHandler.dll
+	VRChat\MelonLoader\Managed
+		Assembly-CSharp.dll
+		Il2Cppmscorlib.dll
+		UnhollowerBaseLib.dll
+		UnityEngine.CoreModule.dll
+		UnityEngine.dll
+		UnityEngine.IMGUIModule.dll
+		UnityEngine.PhysicsModule.dll
+		UnityEngine.TextRenderingModule.dll
+		UnityEngine.UI.dll
+		VRCCore-Standalone.dll
