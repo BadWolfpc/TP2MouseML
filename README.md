@@ -1,7 +1,7 @@
 # TP2MouseML
 Simple mod that lets you press T to teleport to wherever your crosshair is aiming at!
 
-* **If you would like a specific key or combo of keys pressed to teleport, contact me and I can make you a version with your specified needs! (Contact info down below)**
+* If you would like a specific key or combo of keys pressed to teleport, contact me and I can make you a version with your specified needs! (Contact info down below)
 
 * **Warning:** The VRChat team is not very keen on modding or reverse engineering the game!
 * **USE IT AT YOUR OWN RISK**, I am not responsible for any bans or any punishments you may get by using this mod!
@@ -16,7 +16,7 @@ Simple mod that lets you press T to teleport to wherever your crosshair is aimin
 ## Requirements
 * MelonLoader: v0.1.0
 * Unhollower: v0.3.1.0
-*I will update this mod for MelonLoader v0.1.1 when it releases*
+*(I will update this mod for MelonLoader v0.1.1 when it releases)*
 
 ## Contact
 - Need help with anything or have questions? Feel free to contact me on discord @ BadWolf#1234 (Add or DM works)
