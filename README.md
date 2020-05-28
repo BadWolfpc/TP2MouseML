@@ -21,6 +21,6 @@ Simple mod that lets you press T to teleport to wherever your crosshair is aimin
 ## Contact
 - Need help with anything or have questions? Feel free to contact me on discord @ BadWolf#1234 (Add or DM works)
 
-### Credits
-* CJ, for the original source of this mod.
-* [Emilia/thetrueyoshifan](https://github.com/thetrueyoshifan), for leeching off one of her repo readmes to learn how to do this readme. XD
+## Credits
+* **CJ, for the original source of this mod.**
+* **[Emilia/thetrueyoshifan](https://github.com/thetrueyoshifan), for leeching off one of her repo readmes to learn how to do this readme. XD**
