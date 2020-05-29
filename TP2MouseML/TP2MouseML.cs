@@ -4,8 +4,8 @@ using MelonLoader;
 
 namespace TP2MouseML
 {
-	public class TP2MouseML : MelonMod
-	{
+    public class TP2MouseML : MelonMod
+    {
         public static class BuildInfo
         {
             public const string CompatibleGame = "VRChat";
@@ -18,21 +18,21 @@ namespace TP2MouseML
         }
 
         public override void OnApplicationStart()
-		{
+        {
             MelonModLogger.Log(ConsoleColor.Cyan, "==============================================");
             MelonModLogger.Log(ConsoleColor.Green, "TP2Mouse by CJ [Loaded!]");
             MelonModLogger.Log(ConsoleColor.Green, "Press T to teleport to your crosshair!");
             MelonModLogger.Log(ConsoleColor.Cyan, "==============================================");
-		}
+        }
 
         public override void OnGUI()
         {
         }
 
-		public override void OnUpdate()
-		{
+        public override void OnUpdate()
+        {
             if (Input.GetKeyDown(KeyCode.T))
-			{
+            {
                 RayTeleport();
             }
         }
